@@ -8,10 +8,10 @@ Mở PowerShell hoặc CMD, dùng lệnh sau để truy cập vào thư mục (�
     py -m venv venv( vevv là tên môi trường )
 ### 3. Kích hoạt môi trường
     .\venv\Scripts\Activate
-### 4. cài đặt các thư viện cần thiết
+### 4. Cài đặt các thư viện cần thiết
   	pip install -r requirements.txt
     pip install torch transformers underthesea 
-### 5. sau khi cài xong chạy app
+### 5. Sau khi cài xong chạy app
     python desktop_app.py
 thực hiện kiểm tra
 v2
